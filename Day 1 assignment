@@ -1,0 +1,32 @@
+1. What is our understanding of the block chain?
+
+       The main purpose of the block chain is to allow fast, secure, and transparent peer to peer transactions. It is a trusted, decentralized network that allows for the transfer of digital values such as currency and data.
+
+2. What is the core problem block chain trying to solve?
+
+          Block chain address following problems of internet :
+
+              1.Authenticity
+
+               2.Security
+
+               3.Need of trustworthy third party
+
+3. What are the few features which bock chain will give you?
+
+verifiability
+decentralized
+high security
+unchangeable
+tamper-proof
+immutable
+4. What all things does a block contain?
+
+mining key
+Transaction records
+Previous block signature or hash 
+block number 
+5. How is the verifiability of block chain  is been attained?
+
+The finger print of the data will change when the data in the block is changed 
+Every block contains the previous block’s hash and own block’s hash and because of that we can create the chain of block and link the every block to whole chain.
